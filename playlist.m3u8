@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-15 03:22:48 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 4
+# Generated: 2026-10-15 06:01:07 Bangladesh Standard Time
+# Sources: 8 | Channels: 33 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,33 +69,21 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HKXQYDS8" tvg-name="Atlanta Lightning vs. RR Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.662e86d3-ccbd-45b8-865a-9cfff49d4c60/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Atlanta Lightning vs. RR Stars
+#EXTINF:-1 tvg-id="B0H9B2TBS3" tvg-name="Coastal Carolina vs UNC Wilmington - Women's Volleyball" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a1a54867-63ad-4afa-8ffe-b2fa0c2107d3/52/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Coastal Carolina vs UNC Wilmington - Women's Volleyball
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090548036_ENG" tvg-name="Aston Villa vs Fenerbahçe - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175309408329_UCL2627_MD2_Aston_Villa_vs_Fenerbahce_landscape_thumb.jpg" group-title="Sony Liv",Aston Villa vs Fenerbahçe - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548038_ENG" tvg-name="Bodo/Glimt vs Dortmund - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175843132329_UCL2627_MD2_Bodo_vs_Dortmund_landscape_thumb.jpg" group-title="Sony Liv",Bodo/Glimt vs Dortmund - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548030_ENG" tvg-name="Man City vs PSG - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174791870329_UCL2627_MD2_Man_City_vs_PSG_landscape_thumb.jpg" group-title="Sony Liv",Man City vs PSG - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548037_ENG" tvg-name="Real Betis vs Porto - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175659916329_UCL2627_MD2_Real_Betis_vs_Porto_landscape_thumb.jpg" group-title="Sony Liv",Real Betis vs Porto - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548031_ENG" tvg-name="Roma vs Real Madrid - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Sony Liv",Roma vs Real Madrid - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548031_HIN" tvg-name="Roma vs Real Madrid - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Sony Liv",Roma vs Real Madrid - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548031_KAN" tvg-name="Roma vs Real Madrid - 15 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Sony Liv",Roma vs Real Madrid - 15 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548031_TAM" tvg-name="Roma vs Real Madrid - 15 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Sony Liv",Roma vs Real Madrid - 15 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548031_TEL" tvg-name="Roma vs Real Madrid - 15 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Sony Liv",Roma vs Real Madrid - 15 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548040_ENG" tvg-name="S. Bratislava vs Stuttgart - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176288267329_UCL2627_MD2_Bratislava_vs_Stuttgart_landscape_thumb.jpg" group-title="Sony Liv",S. Bratislava vs Stuttgart - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
-#EXTINF:-1 tvg-id="1090548039_ENG" tvg-name="Shakhtar vs AEK Athens - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176078689329_UCL2627_MD2_Shakhtar_vs_AEK_Athens_landscape_thumb.jpg" group-title="Sony Liv",Shakhtar vs AEK Athens - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792054157~acl=/*~id=91464145801846006528109381143463~hmac=4544c54e6e833624a395f3bd81bff4cf066f2c7572cccd041884744b84c2c91d
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLVG4S2W" tvg-name="Loudoun United FC at Rhode Island FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9489b070-4cd4-43bb-82f5-613e7766c2af/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Loudoun United FC at Rhode Island FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBJR4YM6" tvg-name="Oregon State vs. Texas State" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee43884f-0bfe-4121-828f-162c2e570f5b/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Oregon State vs. Texas State
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
