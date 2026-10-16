@@ -16,8 +16,8 @@ from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SOURCES_FILE = os.path.join(ROOT, "sources.txt")
-PERSONAL_FILE = os.path.join(ROOT, "personal.m3u8")
-OUTPUT_FILE = os.path.join(ROOT, "playlist.m3u8")
+PERSONAL_FILE = os.path.join(ROOT, "personal.m3u")
+OUTPUT_FILE = os.path.join(ROOT, "playlist.m3u")
 SKIP_FILE = os.path.join(ROOT, "skip.txt")
 
 BST = timezone(timedelta(hours=6))
