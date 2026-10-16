@@ -7,7 +7,7 @@ A single merged IPTV playlist that aggregates channels from multiple public play
 Load this URL in any IPTV player (Kodi, TiviMate, VLC, etc.):
 
 ```
-https://raw.githubusercontent.com/azamstv00-cpu/Public_Iptv_Channels/main/playlist.m3u
+https://raw.githubusercontent.com/SHanTo370/Public_Iptv_Channels/main/playlist.m3u
 ```
 
 The file is regenerated every 30 minutes by GitHub Actions, so it always reflects the latest state of the source playlists.
